@@ -6,8 +6,12 @@ This is a repository for the information about RoboCup Asia Pacific 2021 @Home l
 
 [English](README_en.md) | 日本語
 
+# スケジュール
+
+[こちら](./Data/schedule.pdf)をご覧ください
 
 # リポジトリ開設
+
 - 情報発信サイト（本サイト）と，[ルール公開用リポジトリ](https://github.com/RoboCupAtHomeJP/Rule2021)を開設いたしました．
 - 詳細なルールやスケジュールは今しばらくお待ちください
 - 21/10/28更新
