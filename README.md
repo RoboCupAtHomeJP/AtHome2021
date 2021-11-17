@@ -10,6 +10,10 @@ This is a repository for the information about RoboCup Asia Pacific 2021 @Home l
 
 [こちら](./Data/schedule.pdf)をご覧ください
 
+# 実施要項
+- [DSPLの実施要項](./Data/dspl_tidyup.md)を公開しました．
+
+
 # リポジトリ開設
 
 - 情報発信サイト（本サイト）と，[ルール公開用リポジトリ](https://github.com/RoboCupAtHomeJP/Rule2021)を開設いたしました．
