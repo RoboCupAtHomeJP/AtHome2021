@@ -13,8 +13,8 @@ Please check [here](./Data/schedule.pdf).
 
 # Implementation Guidelines
 
-- Implementation Guidelines for [OPL](. /Data/opl_tidyup_en.md) is now available.
-- Implementation Guideline of [DSPL](. /Data/dspl_tidyup.md) is now available.
+- Implementation Guidelines for [OPL](./Data/opl_tidyup_en.md) is now available.
+- Implementation Guideline of [DSPL](./Data/dspl_tidyup.md) is now available.
 
 # Repository Opening 
 
