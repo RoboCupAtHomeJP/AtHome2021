@@ -9,6 +9,7 @@
 | ADL-x | SKUBA       | Kasetsart University | Online |
 
 ## About the object
+- Known Objects are those in [this list](opl_known_object_list.pdf).
 - （On-site）： Each team will bring the mailed object to the site and use it.
 - （Online）：Teams will use the objects mailed to them. Do not open the "unknown" box until instructed to do so.
 

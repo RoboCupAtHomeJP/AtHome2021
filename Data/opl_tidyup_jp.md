@@ -9,6 +9,7 @@
 | ADL-x | SKUBA       | Kasetsart University | オンライン |
 
 ## オブジェクトについて
+- Known Objectは[このリスト](opl_known_object_list.pdf)のものを用いる
 - （オンサイト）：各チームは郵送されたオブジェクトを現地へ持ってきて使用する
 - （オンライン）：チームは郵送されたオブジェクトを使用する．unknownの箱は運営の指示があるまで開けない
 
