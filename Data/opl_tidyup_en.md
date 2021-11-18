@@ -42,7 +42,7 @@
 
 ### About Basic Functionalities
 - Time will be measured by both Scorer A and Scorer B.
-- How to set up the room will be available soon.
+- How to set up the room is as shown in [this file](./BFArena_y1.pdf)
 
 #### Pick and Place
 - The objects to be placed and the order in which they will be placed will be given by the OPL committee just before the competition.
