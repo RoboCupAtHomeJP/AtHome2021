@@ -11,6 +11,11 @@ English | [日本語](README.md)
 
 Please check [here](./Data/schedule.pdf).
 
+# Implementation Guidelines
+
+- Implementation Guidelines for [OPL](. /Data/opl_tidyup_en.md) is now available.
+- Implementation Guideline of [DSPL](. /Data/dspl_tidyup.md) is now available.
+
 # Repository Opening 
 
 - Information Site (This page) and [Rules Site](https://github.com/RoboCupAtHomeJP/Rule2021) are opend.
