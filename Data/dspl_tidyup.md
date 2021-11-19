@@ -35,7 +35,7 @@
 - 総当たり・決勝/3位決定戦を開催する
 - 本年は3種類の順位付けを実施する
   - 総合順位
-    - 全タスク（Robot Inspection，Tidy Up，Finals）の得点を総合して順位を決定する
+    - ~~全タスク（Robot Inspection，Tidy Up，Finals）の得点を総合して順位を決定する~~（現在協議中です）
     - Robot Inspection，Tidy Upは全トライアルの最高値の点数を集計する
     - RCAP本部からの表彰対象である
   - Finals順位

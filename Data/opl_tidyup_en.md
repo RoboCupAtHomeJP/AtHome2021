@@ -18,7 +18,7 @@
 - There will be 3 teams competing at the same time.
 - This year, there will be two types of awards.
   - Overall award
-    - The ranking will be determined by totaling the scores of all tasks (Robot Inspection, BF, Tidy Up for OPL, Finals).
+    - ~~The ranking will be determined by totaling the scores of all tasks (Robot Inspection, BF, Tidy Up for OPL, Finals).~~ (We're discussing it.)
     - For Robot Inspection, BF and Tidy Up for OPL, the highest score of all trials will be counted.
   - Finals award
     - Rankings will be determined by Finals scores.
