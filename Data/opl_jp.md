@@ -27,7 +27,7 @@
 
 ## タスクの実施方法について
 
-- Robot InspectionはDSPLと共通です．詳細な情報はお待ちください
+- [Robot Inspectionの実施方法](Arena_y1.pdf)を公開しました．
 - FinalsはDSPLと共通です．詳細な情報はお待ちください
 
 ### 採点チーム
@@ -46,6 +46,7 @@
 ### Basic Functionalitiesについて
 - 時間は採点者Aと採点者Bの両方で測定する
 - 部屋のセットアップ方法は[このファイル](./BFArena_y1.pdf)の通りである
+- ロボットは[このファイル](Arena_y1.pdf)の通りに動くべきである
 
 #### Pick and Place
 - 置く物体と置く順番は，競技直前にOPL運営より指示される

@@ -11,8 +11,8 @@ This is a repository for the information about RoboCup Asia Pacific 2021 @Home l
 [こちら](./Data/schedule.pdf)をご覧ください
 
 # 実施要項
-- [OPLの実施要項](./Data/opl_tidyup_jp.md)を公開しました．
-- [DSPLの実施要項](./Data/dspl_tidyup.md)を公開しました．
+- [OPLの実施要項](./Data/opl_jp.md)を公開しました．
+- [DSPLの実施要項](./Data/dspl.md)を公開しました．
 
 
 # リポジトリ開設

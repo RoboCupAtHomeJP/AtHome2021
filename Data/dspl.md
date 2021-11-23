@@ -48,7 +48,7 @@
 
 ## タスクの実施方法について
 
-- Robot InspectionはOPLと共通です．詳細な情報はお待ちください
+- [Robot Inspectionの実施方法](Arena_y1.pdf)を公開しました．
 - FinalsはOPLと共通です．詳細な情報はお待ちください
 
 ### Tidy Upについて
