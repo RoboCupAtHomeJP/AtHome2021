@@ -56,6 +56,8 @@
 #### What Did You Say?
 - The position of the questioner will be indicated by the OPL committee just before the competition.
 - The questioner should be selected from the members of your team.
+- Questions can be developed in either post-Japanese/English.
+- [Question List](Data/WhatDidYouSay.pdf) is now available.
 
 ### About Tidy Up for OPL
 
