@@ -11,6 +11,11 @@ English | [日本語](README.md)
 
 Please check [here](./Data/schedule.pdf).
 
+# Score
+updated: 11/24 17:08
+- [OPL](./Score/スコアシート_11241705_OPL.pdf)
+- [DSPL](./Score/スコアシート_11241705_DSPL.pdf)
+
 # Implementation Guidelines
 
 - Implementation Guidelines for [OPL](./Data/opl_en.md) is now available.

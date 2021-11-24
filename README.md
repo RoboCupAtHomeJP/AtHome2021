@@ -10,7 +10,13 @@ This is a repository for the information about RoboCup Asia Pacific 2021 @Home l
 
 [こちら](./Data/schedule.pdf)をご覧ください
 
+# スコア
+update: 11/24 17:08
+- [OPL](./Score/スコアシート_11241705_OPL.pdf)
+- [DSPL](./Score/スコアシート_11241705_DSPL.pdf)
+
 # 実施要項
+
 - [OPLの実施要項](./Data/opl_jp.md)を公開しました．
 - [DSPLの実施要項](./Data/dspl.md)を公開しました．
 
