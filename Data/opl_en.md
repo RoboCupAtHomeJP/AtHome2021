@@ -25,7 +25,7 @@
 
 ## How to perform the task
 
-- [Robot behavior in robot inspection](Arena_y1.pdf) is now available.
+- [Robot behavior in robot inspection](Arena_y2.pdf) is now available.
 - Finals is the same as DSPL. Please wait for more information.
 
 ### Scoring Team
@@ -43,8 +43,8 @@
 
 ### About Basic Functionalities
 - Time will be measured by both Scorer A and Scorer B.
-- How to set up the room is as shown in [this file](./BFArena_y1.pdf)
-- The robot should work as described in [this file](Arena_y1.pdf).
+- How to set up the room is as shown in [this file](./BFArena_y2.pdf)
+- The robot should work as described in [this file](Arena_y2.pdf).
 
 #### Pick and Place
 - The objects to be placed and the order in which they will be placed will be given by the OPL committee just before the competition.
