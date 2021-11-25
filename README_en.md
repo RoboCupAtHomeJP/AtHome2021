@@ -7,13 +7,17 @@ This is a repository for the information about RoboCup Asia Pacific 2021 @Home l
 
 English | [日本語](README.md)
 
+# Live Streaming Now!
+
+Please check [here](https://youtu.be/EgJm-qzpyok).
+
 # Schedule
 
 Please check [here](./Data/schedule.pdf).
 
 # Score
-updated: 11/24 17:08
-- [OPL](./Score/スコアシート_11241705_OPL.pdf)
+updated: 11/25 12:25
+- [OPL](./Score/スコアシート_11251225_OPL.pdf)
 - [DSPL](./Score/スコアシート_11241705_DSPL.pdf)
 
 # Implementation Guidelines
