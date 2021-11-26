@@ -19,7 +19,7 @@ Please check [here](https://youtu.be/ULgCVyfgaBM).
 Please check [here](./Data/schedule.pdf).
 
 # Score
-updated: 11/25 15:36
+updated: 11/26 11:27
 - [OPL](./Score/スコアシート_11251731_OPL.pdf)
 - DSPL: [Points](./Score/スコアシート_11261127_DSPL1.pdf)，[Round-Robin](./Score/スコアシート_11261127_DSPL2.pdf)
 
