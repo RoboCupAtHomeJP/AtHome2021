@@ -19,9 +19,9 @@ Please check [here](https://youtu.be/ULgCVyfgaBM).
 Please check [here](./Data/schedule.pdf).
 
 # Score
-updated: 11/26 15:30
+updated: 11/26 17:31
 - [OPL](./Score/スコアシート_11261127_OPL.pdf)
-- DSPL: [Points](./Score/スコアシート_11261127_DSPL1.pdf)，[Round-Robin](./Score/スコアシート_11261127_DSPL2.pdf)
+- DSPL: [Points](./Score/スコアシート_11261731_DSPL1.pdf)，[Round-Robin](./Score/スコアシート_11261731_DSPL2.pdf)
 
 # Implementation Guidelines
 
@@ -30,8 +30,8 @@ updated: 11/26 15:30
 
 # Repository Opening 
 
-- Information Site (This page) and [Rules Site](https://github.com/RoboCupAtHomeJP/Rule2021) are opend.
-- Detailed rules and schedule are comming soon.
+- Information Site (This page) and [Rules Site](https://github.com/RoboCupAtHomeJP/Rule2021) are opened.
+- Detailed rules and schedule are coming soon.
 - 21/10/28 updates.
 
 # Link
