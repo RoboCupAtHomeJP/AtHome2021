@@ -21,7 +21,7 @@ Please check [here](./Data/schedule.pdf).
 # Score
 updated: 11/25 15:36
 - [OPL](./Score/スコアシート_11251731_OPL.pdf)
-- DSPL: [Points](./Score/スコアシート_11251731_DSPL1.pdf)，[Round-Robin](./Score/スコアシート_11251731_DSPL2.pdf)
+- DSPL: [Points](./Score/スコアシート_11261127_DSPL1.pdf)，[Round-Robin](./Score/スコアシート_11261127_DSPL2.pdf)
 
 # Implementation Guidelines
 
