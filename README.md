@@ -8,7 +8,10 @@ This is a repository for the information about RoboCup Asia Pacific 2021 @Home l
 
 # ライブ配信中！
 
-[こちら](https://youtu.be/EgJm-qzpyok)からご覧ください
+[こちら](https://youtu.be/ULgCVyfgaBM)からご覧ください
+
+- [Day1 (11月25日)](https://youtu.be/EgJm-qzpyok)
+- [Day2 (11月26日)](https://youtu.be/ULgCVyfgaBM)
 
 # スケジュール
 
