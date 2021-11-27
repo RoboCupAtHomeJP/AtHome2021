@@ -9,10 +9,11 @@ English | [日本語](README.md)
 
 # Live Streaming Now!
 
-Please check [here](https://youtu.be/ULgCVyfgaBM).
+Please check [here](https://youtu.be/HpHGXcKKY2o).
 
 - [Day1 (Nov., 25th)](https://youtu.be/EgJm-qzpyok)
 - [Day2 (Nov., 26th)](https://youtu.be/ULgCVyfgaBM)
+- [Day3 (Nov., 27th)](https://youtu.be/HpHGXcKKY2o)
 
 # Schedule
 
