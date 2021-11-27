@@ -20,9 +20,12 @@ Please check [here](https://youtu.be/HpHGXcKKY2o).
 Please check [here](./Data/schedule.pdf).
 
 # Score
-updated: 11/27 15:36
+Final results for the task have been uploaded.
+
+updated: 11/27 17:24
+
 - [OPL](./Score/スコアシート_11271401_OPL.pdf)
-- DSPL: [Points](./Score/スコアシート_11271536_DSPL1.pdf)，[Round-Robin](./Score/スコアシート_11271536_DSPL2.pdf)
+- DSPL: [Points](./Score/スコアシート_11271724_DSPL1.pdf)，[Round-Robin](./Score/スコアシート_11271724_DSPL2.pdf)
 
 # Implementation Guidelines
 
