@@ -22,10 +22,10 @@ This is a repository for the information about RoboCup Asia Pacific 2021 @Home l
 # スコア
 タスクの最終成績をアップロードしました
 
-update: 11/27 17:24
+update: 11/28 17:36
 
-- [OPL](./Score/スコアシート_11271401_OPL.pdf)
-- DSPL: [得点表](./Score/スコアシート_11271724_DSPL1.pdf)，[総当たり表](./Score/スコアシート_11271724_DSPL2.pdf)
+- [OPL](./Score/スコアシート_11281736_OPL.pdf)
+- DSPL: [得点表](./Score/スコアシート_11281736_DSPL1.pdf)，[総当たり表](./Score/スコアシート_11271724_DSPL2.pdf)
 
 # 実施要項
 

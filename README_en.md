@@ -23,10 +23,10 @@ Please check [here](./Data/schedule.pdf).
 # Score
 Final results for the task have been uploaded.
 
-updated: 11/27 17:24
+updated: 11/28 17:36
 
-- [OPL](./Score/スコアシート_11271401_OPL.pdf)
-- DSPL: [Points](./Score/スコアシート_11271724_DSPL1.pdf)，[Round-Robin](./Score/スコアシート_11271724_DSPL2.pdf)
+- [OPL](./Score/スコアシート_11281736_OPL.pdf)
+- DSPL: [Points](./Score/スコアシート_11281736_DSPL1.pdf)，[Round-Robin](./Score/スコアシート_11271724_DSPL2.pdf)
 
 # Implementation Guidelines
 
